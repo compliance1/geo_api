@@ -1,4 +1,4 @@
-var geoapi_url = "http://caching-atm.net/geo_api/geo.php?token=c9a04e098a082d7d9fad534670123aab";
+var geoapi_url = "geo.php";
 var geoapi_area_selected;
 var geoapi_prefecture_selected;
 var geoapi_city_selected;
